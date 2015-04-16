@@ -22,7 +22,7 @@ wss.on("connection", function(ws) {
   	if(i === 0)
   	txt = "Hey ! Salut Toi !";
   	if(i === 1)
-  	txt = "Je suis une intéligence artificiel !";
+  	txt = "Je suis une intéligence artificielle !";
   	if(i === 2)
   	txt = "Je sais, c'est incroyable!";
   	if(i === 3)
@@ -34,7 +34,7 @@ wss.on("connection", function(ws) {
   	if(i === 6)
   	txt = "........";
   	if(i === 7)
-  	txt = "Je suis en train de chercher....";
+  	txt = "Je suis entrain de chercher....";
   	if(i === 8)
   	txt = "Je cherche....";
   	if(i === 9)
